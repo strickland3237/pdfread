@@ -17,7 +17,7 @@
 - [ ] [Educated: A Memoir - Westover, Tara](https://strickland3237.github.io/pdfread/web/viewer.html?file=bird.pdf)
 
 ### other
-- [ ] [road - zhengyajun](https://strickland3237.github.io/pdfread/web/viewer.html?file=road.pdf)
+- [x] [road - zhengyajun](https://strickland3237.github.io/pdfread/web/viewer.html?file=road.pdf)
 
 ## code example
 ```

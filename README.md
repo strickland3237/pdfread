@@ -1,4 +1,4 @@
-# pdfread
+# [pdfread](https://github.com/strickland3237/pdfread)
 
 ## read list
 
